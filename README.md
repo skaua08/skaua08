@@ -1,16 +1,15 @@
-## Hi there 👋
+### TROPA DOS NS 🫀
 
-<!--
-**skaua08/skaua08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome ê kauã 
 
-Here are some ideas to get you started:
+- estou estudando no alura
+- estou me desenvolvemto na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhlamento dos meus projetos densenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entra em contado comigo 📫
+
+kaua.pinheirocsw@gmail.com
+
+@Skauaxx
+ 
+
